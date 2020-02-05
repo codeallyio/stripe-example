@@ -52,7 +52,7 @@ public class Server {
     }
 
     public static void main(String[] args) {
-        port(4242);
+        port(4000);
         Dotenv dotenv = Dotenv.load();
         Stripe.apiKey = dotenv.get("STRIPE_SECRET_KEY");
 

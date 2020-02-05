@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ```
 export FLASK_APP=server.py
-python3 -m flask run --port=4242
+python3 -m flask run --port=4000
 ```
 
-4. Go to `localhost:4242` in your browser to see the demo
+4. Go to `localhost:4000` in your browser to see the demo

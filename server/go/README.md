@@ -27,4 +27,4 @@ go get github.com/foolin/goview
 go run server.go
 ```
 
-3. Go to `localhost:4242` in your browser to see the demo
+3. Go to `localhost:4000` in your browser to see the demo
